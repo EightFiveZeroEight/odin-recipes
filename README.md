@@ -1,0 +1,1 @@
+This project is meant to serve as a refresher on HTML structure.
